@@ -1,0 +1,7 @@
+- gros klein 
+- dynamic display 
+- ascii art hangmann
+- dynamic display wort progress
+
+extra 
+- add players with points
