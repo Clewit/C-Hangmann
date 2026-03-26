@@ -1,7 +1,7 @@
-- gros klein 
-- dynamic display 
-- ascii art hangmann
-- dynamic display wort progress
+- gros klein                           X
+- dynamic display                      X
+- ascii art hangmann                   X
+- dynamic display wort progress        X
 
 extra 
-- add players with points
+- add players with points              X
