@@ -29,6 +29,7 @@ void main(){
 
     printf("Eingabe Wahres wort:");
     scanf("%19s", wahr);
+    system("clear");
     wahr[lenght] = tolower(wahr[lenght]);
 
 while(solved == FALSE){
