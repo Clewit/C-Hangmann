@@ -68,6 +68,8 @@ int main(){
     else if(falsche == 5) print5();
     else if(falsche >= 6) print6();
     
+//sdsds
+
     printf("\n");
 
     if(temp == 1){
