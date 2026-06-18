@@ -4,6 +4,14 @@
 #define TRUE 1
 #define FALSE 0
 
+// Included esential Libs:
+
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+#include <ctype.h>
+#include <stdlib.h>
+  
 // ascii-art.c
 void printfull();
 void print7();
