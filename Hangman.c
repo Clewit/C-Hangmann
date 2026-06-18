@@ -1,9 +1,4 @@
-#include <stdio.h>
-#include <unistd.h>
-#include <string.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include "files.h"
+#include "ascii-art.h"
 
 
 #define TRUE 1
