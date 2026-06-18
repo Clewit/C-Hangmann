@@ -41,8 +41,10 @@ gcc -Wall -Wextra Hangman.c ascii-art.c -o hangman
 ## 🗂️ File Structure
 ```
 📁 project
- ┣ 27_Hangmann.c    # Main game logic
- ┗ README.md        # This file
+ ┣ main.c           # Main game logic
+ ┣ ascii-art.c      # ASCII-Art
+ ┣ ascii-art.h      # ASCII-Art header
+ ┗ README.md        
 ```
 
 ## 👤 Author
